@@ -18,10 +18,3 @@ This interactive Chess Game is built with Java to provide an immersive chess-pla
   - Easy-to-use controls for selecting and moving pieces.  
   - Option to restart the game at any time.  
 
-- **Future Enhancements (Planned)**  
-  - AI opponent for single-player mode.  
-  - Timer for each player's moves.  
-  - Move history and undo functionality.  
-
-
-
